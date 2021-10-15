@@ -23,7 +23,7 @@ export default function Users() {
         ))}
       </ul>
 
-      <button type="button" onClick={handleLogout} >Sair</button>
+      <button type="button" onClick={handleLogout}>Sair</button>
     </>
   );
 }
